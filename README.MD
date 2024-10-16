@@ -1,7 +1,7 @@
 <h1 align="center"> Criptografador de textos </h1>
 
 <p align="center">
-É um projeto muito simples, seu objetivo é criptografar um texto e descriptografar o mesmo.
+Programa back-end simples um conversor de moeda feito com java
  <br/>
 </p>
 
